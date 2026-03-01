@@ -22,7 +22,7 @@
         .items {
             display: flex;
             justify-content: center;
-            width: 60%;
+            width: 50%;
             .item {
                 flex: 1;
                 .time {
@@ -74,9 +74,6 @@
                         }
                     }
                 }
-            }
-            &.nha-gai {
-                width: 95%;
             }
         }
     }

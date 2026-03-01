@@ -24,6 +24,11 @@
             margin-top: 7%;
         }
 
+        .subtext {
+            font-size: 11px;
+            text-transform: uppercase;
+        }
+
         .colors-grid {
             display: flex;
             justify-content: center;
@@ -59,6 +64,10 @@
         .content {
             h2 {
                 font-size: calc((36 / 568) * 100vw);
+            }
+
+            .subtext {
+                font-size: calc((11 / 568) * 100vw);
             }
 
             .colors-grid {
